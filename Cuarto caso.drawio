@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="keTpjONiLTJ6849NDANO">
+    <mxGraphModel dx="1016" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Conductor" vertex="1">
+          <mxGeometry height="110" width="50" x="130" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Inspector de la finca" vertex="1">
+          <mxGeometry height="110" width="50" x="610" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="340" x="210" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font&gt;Sistema de Control de Transporte Ganadero&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="560" x="110" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Registrar pesaje y estado del Ganado" vertex="1">
+          <mxGeometry height="80" width="150" x="305" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AUY3zb1QPcL7ikwLnsjQ-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUY3zb1QPcL7ikwLnsjQ-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="230" as="sourcePoint" />
+            <mxPoint x="455" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

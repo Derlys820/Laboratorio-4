@@ -1,0 +1,37 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="6h5FJ5MhNPye0SFK18Tv">
+    <mxGraphModel dx="1016" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Ganadero" vertex="1">
+          <mxGeometry height="100" width="60" x="200" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="285" width="400" x="300" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Coordinador de Logística" vertex="1">
+          <mxGeometry height="110" width="70" x="757" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistema de Control de Transporte Ganadero&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="560" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Registrar y validar guía sanitaria&amp;nbsp;" vertex="1">
+          <mxGeometry height="92.5" width="150" x="430" y="227.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wAKVUSLzf4WNmFNlQj2z-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="270" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAKVUSLzf4WNmFNlQj2z-17" edge="1" parent="1" source="wAKVUSLzf4WNmFNlQj2z-13" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="wAKVUSLzf4WNmFNlQj2z-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="694" y="260" as="sourcePoint" />
+            <mxPoint x="584" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
